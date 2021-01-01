@@ -1,0 +1,16 @@
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\obj\Debug\net5.0\C_SharpExample.csprojAssemblyReference.cache
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\obj\Debug\net5.0\C_SharpExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\obj\Debug\net5.0\C_SharpExample.AssemblyInfoInputs.cache
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\obj\Debug\net5.0\C_SharpExample.AssemblyInfo.cs
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\obj\Debug\net5.0\C_SharpExample.csproj.CoreCompileInputs.cache
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\bin\Debug\net5.0\C_SharpExample.exe
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\bin\Debug\net5.0\C_SharpExample.deps.json
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\bin\Debug\net5.0\C_SharpExample.runtimeconfig.json
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\bin\Debug\net5.0\C_SharpExample.runtimeconfig.dev.json
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\bin\Debug\net5.0\C_SharpExample.dll
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\bin\Debug\net5.0\ref\C_SharpExample.dll
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\bin\Debug\net5.0\C_SharpExample.pdb
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\obj\Debug\net5.0\C_SharpExample.dll
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\obj\Debug\net5.0\ref\C_SharpExample.dll
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\obj\Debug\net5.0\C_SharpExample.pdb
+C:\01_Programming_work\01_VisualStudioCode\03_C#\C_SharpExample\obj\Debug\net5.0\C_SharpExample.genruntimeconfig.cache
